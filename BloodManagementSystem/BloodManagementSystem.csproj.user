@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Administrator\source\repos\BloodManagementSystem\BloodManagementSystem\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+    <NameOfLastUsedPublishProfile>BloodManagementSystem202306160028071</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Blood Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Donor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
